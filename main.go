@@ -34,8 +34,8 @@ type MockContainer struct {
 
 var (
 	containers = map[string]MockContainer{
-		"wade-test-1": {Pid: 2034, NfqueueNum: 1},
-		"wade-test-2": {Pid: 2110, NfqueueNum: 2},
+		"wade-test-1": {Pid: 1494, NfqueueNum: 1},
+		"wade-test-2": {Pid: 1565, NfqueueNum: 2},
 	}
 )
 
